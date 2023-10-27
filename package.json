@@ -1,7 +1,7 @@
 {
-  "name": "1-projet_init",
+  "name": "projet_init",
   "version": "1.0.0",
-  "description": "![cover](https://hackmd.io/_uploads/BJW9oA9Wa.jpg)\r >Projet initial pour apprendre les bonnes pratiques et rendre performante &amp; inclusive une application ♿️",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "build": "babel --no-babelrc src -w -d js --preset=env"
